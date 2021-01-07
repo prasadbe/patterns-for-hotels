@@ -1,3 +1,5 @@
+//proxy is nothing before moving to client class just optimize your work before sending to client
+
 function priceApi(item) {
     this.item = item;
     this.getEstimate = function() {
